@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VolutariadoAppv0</string>
+    <string name="proyectos">MODULO DE PROYECTOS</string>
+    <string name="add_proyecto">Guardar proyecto</string>
+    <string name="proyecto">proyecto</string>
+    <string name="costo">costo</string>
+    <string name="feInicio">fecha inicio</string>
+    <string name="feFin">fecha fin</string>
+    <string name="estado">estado</string>
+</resources>
